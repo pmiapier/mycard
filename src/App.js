@@ -19,7 +19,7 @@ function Data() {
       <p>
         Full Stack web developer and kindergarten assistant teacher at No
         school. When I do not study programming, I like to knit, bake and cook.
-        I like to be go hiking as well as camping
+        I like to go hiking as well as camping
       </p>
     </div>
   );
