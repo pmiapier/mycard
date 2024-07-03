@@ -17,7 +17,7 @@ function Data() {
     <div className='data'>
       <h1>My name is Panalee Pierce</h1>
       <p>
-        Full Stack web developer and kindergartem assistant teacher at No
+        Full Stack web developer and kindergarten assistant teacher at No
         school. When I do not study programming, I like to knit, bake and cook.
         I like to be go hiking as well as camping
       </p>
